@@ -1,0 +1,8 @@
+.mycol {
+    border: groove red 1px;
+    height: 200px;
+}
+
+.myrow {
+    border: rgba(rgb(248, 232, 5), green, blue, alpha) 1px;
+}

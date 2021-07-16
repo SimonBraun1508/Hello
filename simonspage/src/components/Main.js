@@ -5,9 +5,6 @@ class Main extends React.Component {
       return (
   
         <main>
-          <div><h2>Produktübersicht</h2>
-          </div>
-          <hr />
         </main>
       );
     }
