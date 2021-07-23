@@ -1,6 +1,6 @@
 .mycol {
     border: groove red 1px;
-    height: 200px;
+    /* height: 200px; */
 }
 
 .myrow {

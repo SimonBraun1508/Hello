@@ -10,6 +10,12 @@ export default function Header() {
                 <div class='col mycol'>1</div>
                 <div class='col mycol'>1</div>
             </div>
+            <div class="row myrow">
+                <div class='col mycol'>12334</div>
+                <div class='col mycol'>232241</div>
+                {/* <div class='col mycol'>1</div> */}
+                {/* <div class='col mycol'>1</div> */}
+            </div>
         </div>
     )
 }
