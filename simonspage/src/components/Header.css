@@ -2,7 +2,20 @@
     border: groove red 1px;
     /* height: 200px; */
 }
+.mycol2 {
+    border: dotted rgb(0, 4, 255) 1px;
+    /* height: 200px; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
 
+}
 .myrow {
     border: rgba(rgb(248, 232, 5), green, blue, alpha) 1px;
+}
+.logo {
+    height: 80px;
+}
+.text {
+    border: solid black 1px;
 }
